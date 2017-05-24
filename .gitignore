@@ -12,6 +12,7 @@ lt application files
 bin/
 gen/
 out/
+objs/
 
 # Gradle files
 .gradle/
